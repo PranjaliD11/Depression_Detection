@@ -11,3 +11,5 @@ This project is part of the Kaggle Playground Series Competition, focused on bui
 ->Built and compared multiple models, including:Logistic Regression and Gradient Boosting Models: XGBoost, CatBoost, and LightGBM (LGBM)
 ### 4.Results:
 ->Achieved a high accuracy of 92% using the CatBoost model, demonstrating its effectiveness for this dataset.
+
+Feel free to fork and try the code,I have attached dataset into it
