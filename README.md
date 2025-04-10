@@ -1,4 +1,4 @@
-# 🧠 Depression Detection – Binary Classification Project
+# Depression Detection – Binary Classification Project
 
 This project was part of the **Kaggle Playground Series**, where the goal was to predict whether an individual is experiencing depression based on survey and lifestyle data.
 
@@ -25,7 +25,7 @@ Using multiple machine learning models and structured preprocessing steps, I bui
 - Applied `LabelEncoder` to transform categorical features
 - Ensured consistent encoding across train/test splits
 
-### 🧠 3. Model Building & Evaluation
+###  3. Model Building & Evaluation
 Compared several models for classification:
 - **Logistic Regression** (baseline)
 - **XGBoost**, **CatBoost**, and **LightGBM** for boosted performance
